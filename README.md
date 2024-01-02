@@ -1,4 +1,5 @@
 # **EXCEL SALES AND ANALYTICS REPORT FOR ATLIQ COMPANY*
+Atliq is a company that sells hardware like computer, mouse, printers and so on to different customers.for atliq the customer is the store like best buy, amazon, staples, flipkart and the consumer is the person who consuming the product. Croma and Best Buy(Brick and Mortar customer), flipkart and amazon(E-commerce).
 
 ## Sales Report:
 - **Project Objective**
